@@ -1,0 +1,13 @@
+{
+	"name": "app",
+	"version": "0.0.1",
+	"main": "app.js", 
+	"author": "wouer", 
+	"description": "express appje", 
+	"scripts": {
+		"start": "nodejs app.js"
+	},
+	"dependencies": {
+	 "express": "latest" 
+	}
+}
